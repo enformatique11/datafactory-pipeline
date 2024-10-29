@@ -1,0 +1,17 @@
+{
+	"name": "trigger1",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [],
+		"type": "BlobEventsTrigger",
+		"typeProperties": {
+			"blobPathBeginsWith": "/output/blobs/",
+			"ignoreEmptyBlobs": true,
+			"scope": "/subscriptions/94ea13c7-4cec-4c76-8a90-1a7815cc0c51/resourceGroups/data-factory-rg/providers/Microsoft.Storage/storageAccounts/stgdatafactory",
+			"events": [
+				"Microsoft.Storage.BlobCreated"
+			]
+		}
+	}
+}
