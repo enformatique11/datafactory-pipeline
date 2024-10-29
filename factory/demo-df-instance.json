@@ -1,9 +1,0 @@
-{
-	"name": "demo-df-instance",
-	"location": "uksouth",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "e35ecfb9-49c3-4d07-93c7-a3bd2b627715",
-		"tenantId": "28122101-5d32-420a-a7f9-afa7d6cbae10"
-	}
-}
