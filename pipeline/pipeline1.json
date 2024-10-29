@@ -39,7 +39,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "emp_1",
 						"type": "DatasetReference"
 					}
 				],
