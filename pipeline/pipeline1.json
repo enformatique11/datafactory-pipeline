@@ -45,7 +45,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "Json2",
+						"referenceName": "Json3",
 						"type": "DatasetReference"
 					}
 				]
